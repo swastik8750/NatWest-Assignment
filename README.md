@@ -1,7 +1,7 @@
 # NatWest-Assignment
 Assignment for Intern @NatWest Group
 
-#Problem Statement
+# Problem Statement
 |------------------------------------------------------------------------------------------------|
 ```Remember a childhood game "Rock, Paper and Scissors". It is a two-player game in which each
 person simultaneously chooses either rock, paper, or scissors.
