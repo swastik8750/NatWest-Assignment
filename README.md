@@ -2,7 +2,7 @@
 Assignment for Intern @NatWest Group
 
 # Problem Statement
-|------------------------------------------------------------------------------------------------|
+
 ```Remember a childhood game "Rock, Paper and Scissors". It is a two-player game in which each
 person simultaneously chooses either rock, paper, or scissors.
 Following are the rules of game
@@ -22,7 +22,6 @@ While writing code take care of following points.
 2. Appropriate logging should be there.
 3. Unit test cases should be there.
 4. Swagger documentation should there.```
-|------------------------------------------------------------------------------------------------|
 
 
 # Tech Stack 🧑‍💻
@@ -64,4 +63,4 @@ While writing code take care of following points.
  ```
  
  #Postman Documentation
-postman link [: https://elements.getpostman.com/redirect?entityId=21892039-088c025a-c6f6-44bd-ad51-22ea61037009&entityType=collection]
+[postman link](https://elements.getpostman.com/redirect?entityId=21892039-088c025a-c6f6-44bd-ad51-22ea61037009&entityType=collection)
