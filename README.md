@@ -32,7 +32,7 @@ While writing code take care of following points.
 - Postman for endpoint documentation
 
 
-#PostMan Request Response method:
+# PostMan Request Response method:
 
 -Endpoint for playing the move:
 <kbd>![image](https://user-images.githubusercontent.com/78960121/208525703-0e6faa57-95d4-4a22-984f-ea2ea77040b8.png)</kbd>
@@ -41,7 +41,7 @@ While writing code take care of following points.
 <kbd>![image](https://user-images.githubusercontent.com/78960121/208525909-e8d68c60-e60a-4b04-ae63-58888e4f622d.png)</kbd>
 
 
- #How to run
+ # How to run
  
  -Clone the Repo:
  ```
@@ -64,5 +64,5 @@ While writing code take care of following points.
  python manage.py test
  ```
  
- #Postman Documentation
-[postman link](https://elements.getpostman.com/redirect?entityId=21892039-088c025a-c6f6-44bd-ad51-22ea61037009&entityType=collection)
+ # Postman Documentation
+POSTMAN DOCUMENTATION FOR MICROSERVICE (https://elements.getpostman.com/redirect?entityId=21892039-088c025a-c6f6-44bd-ad51-22ea61037009&entityType=collection)
